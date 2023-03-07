@@ -10,6 +10,6 @@ int num = Convert.ToInt32(Console.ReadLine());
 int i = 1;
 while ( i <= num)
 {
-    Console.Write($"{i*i*i} ");
+    Console.Write($"{i*i*i}, ");
 i++;
 }
